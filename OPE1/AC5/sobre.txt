@@ -1,0 +1,3 @@
+-fazer casos de uso;
+-especificar casos de uso;
+-SSS: requisitos de sistemas
